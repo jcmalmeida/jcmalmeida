@@ -2,7 +2,7 @@
 
 **Engenheiro Elétrico | Mestre em Engenharia Biomédica | Desenvolvedor de Software (em formação) 👨🏻‍💻**
 
-Tenho atuado no desenvolvimento de hardware há mais de uma década e estou migrando para a área de desenvolvimento de software. Estou estudando e começando a desenvolver alguns projetos para Web que gradativamente disponibilizarei aqui. Caso queira conferir os projetos de minha atuação profissional anterior, deixei-os indicados abaixo 😉:
+Tenho atuado no desenvolvimento de hardware há mais de uma década e estou migrando para a área de desenvolvimento de software. Estou estudando e começando a desenvolver alguns projetos para Web que gradativamente disponibilizarei aqui. Caso queira conhecer os projetos de minha atuação profissional anterior, deixei-os indicados abaixo. Por favor, fique a vontade para me contatar (LinkedIn: [https://www.linkedin.com/in/jcmalmeida/](https://www.linkedin.com/in/jcmalmeida/)).
 
 * Aceleração do projeto de ventiladores pulmonares no Instituto de Pesquisas Eldorado. [Link para vídeo no Youtube](https://youtu.be/37EInB4_JAs?t=628)
 
@@ -13,5 +13,3 @@ Tenho atuado no desenvolvimento de hardware há mais de uma década e estou migr
 * Lecionamento de diversas disciplinas envolvendo circuitos digitais, microcontrolados e eletrônica em geral em nível técnico e de graduação na Unicamp. [Link para o blog elaborado por uma das turmas de alunos](http://labeletron.blogspot.com.br/)
 
 * Desenvolvimento de protótipo de um eletroestimulador controlado por meio de tablet na Quark Produtos Médicos. [Link para o site do produto final](https://quarkmedical.com.br/quark2302/index.php?route=product/product&path=64&product_id=105)
-
-* Meu LinkedIn: [https://www.linkedin.com/in/jcmalmeida/](https://www.linkedin.com/in/jcmalmeida/)
